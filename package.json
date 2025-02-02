@@ -1,7 +1,7 @@
 {
   "name": "hierarchical-table-website",
   "version": "0.1.0",
-  "homepage": "https://yourusername.github.io/hierarchical-table-assessment",
+  "homepage": "https://sakthi-rct.github.io/hierarchical-data-table/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",

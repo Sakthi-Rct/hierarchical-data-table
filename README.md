@@ -12,7 +12,7 @@ A React application that implements a hierarchical data table with dynamic value
 
 ## Live Demo
 
-[View Live Demo](https://yourusername.github.io/hierarchical-table-assessment)
+[View Live Demo](https://sakthi-rct.github.io/hierarchical-data-table/)
 
 ## Local Development
 
