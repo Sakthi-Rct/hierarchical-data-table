@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hierarchical-table-assessment/static/css/main.919c4cd5.css",
+    "main.js": "/hierarchical-table-assessment/static/js/main.0a05b616.js",
+    "index.html": "/hierarchical-table-assessment/index.html",
+    "main.919c4cd5.css.map": "/hierarchical-table-assessment/static/css/main.919c4cd5.css.map",
+    "main.0a05b616.js.map": "/hierarchical-table-assessment/static/js/main.0a05b616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919c4cd5.css",
+    "static/js/main.0a05b616.js"
+  ]
+}
