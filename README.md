@@ -1,4 +1,4 @@
-# Hierarchical Table Assessment
+# Hierarchical Table 
 
 A React application that implements a hierarchical data table with dynamic value allocation features.
 
